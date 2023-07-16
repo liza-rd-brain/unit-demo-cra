@@ -1,3 +1,9 @@
+# v0.1.72 - 2023-07-16
+
+## Bugfixes
+- omitting date var
+
+
 # v0.1.42 - 2023-07-16
 
 ## New Features
