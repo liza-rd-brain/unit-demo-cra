@@ -1,6 +1,6 @@
 {
     "name": "unit-demo-cra",
-    "version": "0.1.42",
+    "version": "0.1.69",
     "homepage": ".",
     "private": true,
     "dependencies": {
