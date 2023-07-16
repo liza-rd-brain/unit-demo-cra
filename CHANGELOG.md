@@ -1,3 +1,9 @@
+# v0.1.73 - 2023-07-16
+
+## Bugfixes
+- formatted date
+
+
 # v0.1.42 - 2023-07-16
 
 ## New Features
