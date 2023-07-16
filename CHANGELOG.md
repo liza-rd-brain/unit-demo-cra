@@ -1,3 +1,9 @@
+# v0.1.44 - 2023-07-16
+
+## New Features
+- issue on tag
+
+
 # v0.1.42 - 2023-07-16
 
 ## New Features
