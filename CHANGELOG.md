@@ -1,3 +1,12 @@
+# v0.1.43 - 2023-07-16
+
+## New Features
+- issue
+
+## Other Changes
+- Release/v0.1.42 ([#3](https://github.com/liza-rd-brain/unit-demo-cra/pull/3) by [liza-rd-brain](https://github.com/liza-rd-brain))
+
+
 # v0.1.42 - 2023-07-16
 
 ## New Features
