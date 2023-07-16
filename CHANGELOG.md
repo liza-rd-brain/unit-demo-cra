@@ -1,3 +1,9 @@
+# v0.1.47 - 2023-07-16
+
+## Bugfixes
+- add label
+
+
 # v0.1.42 - 2023-07-16
 
 ## New Features
