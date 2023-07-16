@@ -1,3 +1,9 @@
+# v0.1.74 - 2023-07-16
+
+## Bugfixes
+- set-output name=date
+
+
 # v0.1.42 - 2023-07-16
 
 ## New Features
