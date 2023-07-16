@@ -1,3 +1,9 @@
+# v0.1.80 - 2023-07-16
+
+## Bugfixes
+- fix readme
+
+
 # v0.1.42 - 2023-07-16
 
 ## New Features
