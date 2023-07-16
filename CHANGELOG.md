@@ -1,3 +1,12 @@
+# v0.1.76 - 2023-07-16
+
+## New Features
+- feat E
+
+## Chores
+- test-release workflow
+
+
 # v0.1.42 - 2023-07-16
 
 ## New Features
