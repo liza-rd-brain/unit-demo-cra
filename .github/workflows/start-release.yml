@@ -85,6 +85,7 @@ jobs:
           path: playwright-report/
           retention-days: 1
   deploy:
+    runs-on: ubuntu-latest
     steps:
       - name: Build
         run: npm run build
